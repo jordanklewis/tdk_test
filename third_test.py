@@ -3,5 +3,5 @@ def function1(self, arg):
     header = arg[2]
     return data + header
 
-def function2(self, arg):
+def function3(self, arg):
     return arg
